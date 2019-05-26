@@ -1,3 +1,11 @@
+# Note
+- 2019-05-26, tested
+  - Plotly mdn address was fixed.
+  - Pusher log-in credential added.
+  - Worked perfectly fine.
+
+---
+
 # Flask Realtime Graph
 Flask Realtime Graph built with Plotly and Pusher. You can view the tutorial [here](https://pusher.com/tutorials/bitcoin-live-graph-python).
 
